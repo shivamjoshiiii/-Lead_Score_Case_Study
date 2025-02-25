@@ -1,5 +1,5 @@
-X Education Lead Scoring Model
-Overview
+# X Education Lead Scoring Model
+# Overview
 X Education, an online education provider for industry professionals, faces a challenge where only about 30% of its daily generated leads convert into paying customers. Leads are generated through website visits—via organic searches, digital marketing channels, or referrals—and are further qualified when visitors submit their contact details. To improve conversion rates, this project develops a logistic regression model that assigns a lead score (ranging from 0 to 100) to each prospect. A higher score indicates a "hot lead" with a greater likelihood of conversion, enabling the sales team to prioritize their outreach effectively.
 
 Repository Structure
