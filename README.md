@@ -4,22 +4,22 @@ X Education, an online education provider for industry professionals, faces a ch
 
 ## Repository Structure
 * #### Lead Score Case Study Pradeep_Shivam_LeadScore_CaseStudy.ipynb
-Jupyter Notebook containing the complete data analysis, model development, and evaluation process.
+       Jupyter Notebook containing the complete data analysis, model development, and evaluation process.
 
 * #### Assignment Subjective Questions.pdf
-Document with detailed answers to the project’s subjective questions.
+       Document with detailed answers to the project’s subjective questions.
 
 * #### Lead Score Case Study.pdf
-Final presentation summarizing insights, recommendations, and findings.
+       Final presentation summarizing insights, recommendations, and findings.
 
 * #### Leads.csv
-Dataset used for the analysis.
+       Dataset used for the analysis.
 
 * #### Leads Data Dictionary.xlsx
-Data dictionary describing each feature in the dataset.
+       Data dictionary describing each feature in the dataset.
 
 * #### Summary.pdf
-Comprehensive summary of the methodology and key steps undertaken in the analysis.
+       Comprehensive summary of the methodology and key steps undertaken in the analysis.
 
 ## Methodology
 #### 1. Data Acquisition and Preprocessing
